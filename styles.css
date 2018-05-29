@@ -1,0 +1,93 @@
+html {
+  font-size: 1em;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  color: #333;
+  background: #fff;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  margin: 0 0 1em;
+}
+
+.example,
+.example-p {
+  margin: 1rem 0;
+  background: #eee;
+  font-size: 1rem;
+}
+
+.example {
+  outline: 1px solid red;
+  padding: 0;
+  line-height: 2.75rem;
+}
+
+.example-p {
+  outline: 1px solid green;
+  padding: .6875rem 0;
+}
+
+.example1 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.example2 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.example3 {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.example4 {
+  font-family: 'Slabo 27px', serif;
+}
+
+.example5 {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.example6 {
+  font-family: 'PT Serif', serif;
+}
+
+.example7 {
+  font-family: 'Indie Flower', cursive;
+}
+
+.example8 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.example9 {
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+.example10 {
+  font-family: 'Dancing Script', cursive;
+}
+
+.example11 {
+  font-family: 'Amatic SC', cursive;
+}
+
+.example12 {
+  font-family: 'IM Fell French Canon SC', serif;
+}
+
+.example13 {
+  font-family: 'Teko', sans-serif;
+}
+
+.example14 {
+  font-family: 'Orbitron', sans-serif;
+}
